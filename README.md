@@ -49,3 +49,6 @@ Also, for s-box and inverse s-box lookup tables are used.
 1 KB data is decrypted in ~490k steps
 
 ~2 KB data can be encrypted or decrypted in one transaction.
+
+# What's next?
+AES-256
