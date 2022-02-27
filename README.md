@@ -1,14 +1,11 @@
-# cairo-aes
-AES implementation for Cairo
-
-# How to run the project?
+## How to run the project?
 
 You can download and run the project locally. 
 Be sure that you set up the environment for the CAIRO as in the following link.
 https://www.cairo-lang.org/docs/quickstart.html
 
 
-# AES-128
+## AES-128
 
 ### Tests
 
@@ -53,5 +50,5 @@ Also, for s-box and inverse s-box lookup tables are used.
 
 ~2 KB data can be encrypted or decrypted in one transaction.
 
-# What's next?
+## What's next?
 AES-256
