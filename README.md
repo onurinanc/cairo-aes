@@ -11,8 +11,8 @@ Testing (Make bold here)
 
 test_aes_128_encrypt.cairo
 
-cairo-compile tests/test_aes_128_encrypt.cairo --output test_compiled.json
-cairo-run --program=test2_compiled.json --print_output --print_info --relocate_prints --layout=all
+`cairo-compile tests/test_aes_128_encrypt.cairo --output test_compiled.json
+cairo-run --program=test2_compiled.json --print_output --print_info --relocate_prints --layout=all`
 
 test_aes_128_encrypt.cairo
 
